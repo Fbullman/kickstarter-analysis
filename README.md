@@ -1,8 +1,8 @@
 # kickstarter with Excel
 ## Overview of Project
 ### Purpose
-her 
-The purpose of the project is to provide data analysis to assist Louise make an informed decision for crowdfund campaign for “Fever” play. 
+ 
+The purpose of the project is to provide data analysis to assist Louise make an informed decision for crowdfund campaign for her “Fever” play. 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
@@ -12,17 +12,20 @@ The Outcome Based on Launch Date analysis and chart indicates the best and worst
 
 ![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Resources/Outcomes%20based%20on%20launch%20date.png?raw=true)
 
+According to the visuals:
+
 * Most Successful months: May, June, February, July (ranked order)
 * Least Successful months: January, October, July, June
 
 ### Analysis of Outcomes Based on Goals
-Based on analysis of Outcome of Goals Louise has a higher successful rate at 76% aimed on Goals that are less than a $1000.00 and a 
-good successful rate at 73% based on goals between $1000 and $4999. So its recommended Louise focus on Goals with a maximun of $4999.
+Based on analysis of Outcome of Goals Louise has a higher success rate at 76% aimed on goals that are less than a $1000.00 and a 
+good success rate at 73% based on goals between $1000 and $4999. So it is recommended that Louise focus on Goals with a maximun of $4999.
 
 ![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
-Further analysis was conducted based on Louise’s input; plays she likes. For future campaings. This category was over funded with a maximum average donation of $51.79.
+Further analysis was conducted based on Louise’s input; plays she likes, for future campaings. 
+This category was over funded with a maximum average donation of $51.79.
 The legnth in days of campaign is as folllows:
 
 * Minimum 20 days
