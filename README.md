@@ -18,6 +18,10 @@ Based on analysis of Outcome of Goals Louise has a higher successful rate aimed 
 Further analysis was conducted based on Louise’s input; plays she likes. This category was over funded with a maximum average donation of $51.79.
 To help her decide on campaign length in days
 
+* •	Minimum 20 days
+* •	Maximum 53.5 days
+* •	Average 33 days
+
 
 
 
