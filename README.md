@@ -8,8 +8,8 @@ The purpose of the project is to provide data analysis to assist Louise crowdfun
 ### Analysis of Outcomes Based on Launch Date
 The Outcome Based on Launch Date analysis and chart indicates the best and worst times to launch a campaign.
 
-*Most successful months: May, June, February, July (ranked order)
-*Least Successful months: January, October, July, June
+-*Most successful months: May, June, February, July (ranked order)
+-*Least Successful months: January, October, July, June
 
 
 
