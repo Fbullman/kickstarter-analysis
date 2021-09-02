@@ -10,7 +10,7 @@ The analysys conducted included refining, filtering, and formating data to focus
 
 The Outcome Based on Launch Date analysis and chart indicates the best and worst times to launch a campaign.
 
-![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Resources/Outcomes%20based%20on%20launch%20date.png?raw=true)
+![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Outcomes%20based%20on%20launch%20date.png)
 
 According to the visuals:
 
