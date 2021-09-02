@@ -8,7 +8,7 @@ The purpose of the project is to provide data analysis to assist Louise crowdfun
 ### Analysis of Outcomes Based on Launch Date
 The Outcome Based on Launch Date analysis and chart indicates the best and worst times to launch a campaign.
 
-![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Resources/Outcomes%20based%20on%20launch%20date.png?raw=true)
+![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 * Most Successful months: May, June, February, July (ranked order)
 * Least Successful months: January, October, July, June
