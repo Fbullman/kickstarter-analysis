@@ -35,7 +35,7 @@ Using the minimum average pledge of $33.03 yields to 170 donations.
   The average amount of pledges is $42.41
   
 ## Conclusion
-Based on the above analysis, is recommended that Louise launches fer campaign in May for 33 days with a goal of 140 pledges of $42.41.
+Based on the above analysis, is recommended that Louise launches her campaign in May for 33 days with a goal of 140 pledges of $42.41.
 
 
 
