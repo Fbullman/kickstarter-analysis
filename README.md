@@ -6,7 +6,7 @@ The purpose of the project is to provide data analysis to assist Louise make an 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-The analysys conducted included refining, filtering, for4mating data to focus on relevant information to her project
+The analysys conducted included refining, filtering, and formating data to focus on relevant information to her project.
 
 The Outcome Based on Launch Date analysis and chart indicates the best and worst times to launch a campaign.
 
@@ -22,8 +22,8 @@ good successful rate at 73% based on goals between $1000 and $4999. So its recom
 ![This is an image](https://github.com/Fbullman/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
-Further analysis was conducted based on Louise’s input; plays she likes. This category was over funded with a maximum average donation of $51.79.
-To help her decide on campaign length in days
+Further analysis was conducted based on Louise’s input; plays she likes. For future campaings. This category was over funded with a maximum average donation of $51.79.
+The legnth in days of campaign is as folllows:
 
 * Minimum 20 days
 * Maximum 53.5 days
