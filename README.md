@@ -22,6 +22,16 @@ To help her decide on campaign length in days
 * Maximum 53.5 days
 * Average 33 days
 
+The mean pledge for successful US plays was $5,602, the maximum average pledge of $51.79, yields to 109 donations.
+Using the minimum average pledge of $33.03 yields to 170 donations.
+- Note: The average of the number of donations is 140
+  The average amount of pledges is $42.41
+  
+## Conclusion
+Based on the above analysis, is recommended that Louise launches fer campaign in May for 33 days with a goal of 140 pledges of $42.41.
+
+
+
 
 
 
